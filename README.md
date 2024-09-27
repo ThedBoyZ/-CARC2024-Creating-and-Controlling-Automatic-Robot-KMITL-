@@ -1,6 +1,8 @@
 # CARC2024 - Robotics and AI 
 (Pin Bowling Detection  Image processing contour & Map Features)
 
+<pre>python CARC_Redballstation.py --video ball-red-roboticsVision.mp4</pre> 
+
 <img src="./A.jpg"><br>
 
 ##  <pre>(1) pin detection: result -> A   </pre> 
