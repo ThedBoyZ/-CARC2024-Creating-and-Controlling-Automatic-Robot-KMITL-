@@ -11,7 +11,7 @@
 <img src="./Python_Field/EdgeDetection-2contour.png">
 <br><br><br>
 
-**## refine pin detection adjusted() :**
+*## refine pin detection adjusted() :*<br>
 <br><img src="./A.jpg"><br>
 
 ##  <pre>(1) pin detection: result -> A   </pre> 
